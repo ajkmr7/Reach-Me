@@ -4,5 +4,4 @@ Social Media Application exclusively built for students with features like follo
 
 Built on Flutter, Firebase.
 
-![GitHub Logo](/images/Screenshot_2021-05-24-18-08-27-10_7704f55759e2fba1342d3d6ee34969c2.jpg)
-Format: ![Image 1]
+<img src = "https://github.com/ajkmr7/Reach-Me/blob/main/images/Screenshot_2021-05-24-18-08-27-10_7704f55759e2fba1342d3d6ee34969c2.jpg" width = 250 alt="image1"/>
